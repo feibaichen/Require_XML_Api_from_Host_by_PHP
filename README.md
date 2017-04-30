@@ -1,2 +1,5 @@
-# newprojiect
-about tartUp_HomePage
+# Require_XML_Api_from_Host_by_PHP发送数据请求，返回XML数据格式，PHP服务器端的简单写法
+
+将该文件放在服务器端，在iOS端发送对该PHP文件的数据请求，即可返回XML数据。
+本文件指示简单写了基本的返回写法，有特殊需求的可以另外进行封装，例如在服务器端接收iOS端的提交的数据，自动拼接数据后自动返回更新后的数据
+
